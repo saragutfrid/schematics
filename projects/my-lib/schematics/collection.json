@@ -13,7 +13,7 @@
     },
     "component": {
       "aliases": ["c"],
-      "factory": "./component",
+      "factory": "./component/index#myComponent",
       "description": "Create an Angular component.",
       "schema": "./component/schema.json"
     }
