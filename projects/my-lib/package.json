@@ -14,6 +14,7 @@
     "save": "devDependencies"
   },
   "devDependencies": {
+    "@angular/cli": "17.2.3",
     "copyfiles": "file:../../node_modules/copyfiles",
     "typescript": "file:../../node_modules/typescript"
   }
