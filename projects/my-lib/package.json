@@ -14,8 +14,8 @@
     "save": "devDependencies"
   },
   "devDependencies": {
-    "@angular-devkit/schematics": "^18.2.1",
-    "@schematics/angular": "^18.2.1",
+    "@angular-devkit/schematics": "^17.0.0",
+    "@schematics/angular": "^17.0.0",
     "copyfiles": "file:../../node_modules/copyfiles",
     "typescript": "file:../../node_modules/typescript"
   }
